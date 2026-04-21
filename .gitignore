@@ -22,3 +22,17 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+venv/
+env/
+.env
+
+temp_*
+*.pdf
+*.docx
+Thumbs.db
